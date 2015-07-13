@@ -1,6 +1,6 @@
 
 def names(givenname):
-	print "tim " + givenname
-
+	print "Tim " + givenname
+	print "Giri"
 
 names("Nishant")
